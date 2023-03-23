@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Aria Maz</h1>
-<h3 align="center">Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
+<h3 align="left">Passionate about Artificial Intelligence 🧠 and Automation 🤖</h3>
+<h3 align="left">Sophmore at Queen's University pursuing Mechatronics and Robotics Engineering🦾</h3>
 
 - 📧 How to reach me **aria.maz@queensu.ca**
 
